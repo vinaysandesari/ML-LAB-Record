@@ -1,1 +1,5 @@
 # ML-LAB-Record
+NAME-S.Vinay
+ID-B200402
+CSE-C4 
+ROLL(16)
